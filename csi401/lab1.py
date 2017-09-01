@@ -96,3 +96,4 @@ print({x*x for x in S | {5,7} if x > 2})
 print({x*y for x in {1,2,3} for y in {2,3,4}})
 
 # Continue from page 7 Tomorrow
+# WORK 
